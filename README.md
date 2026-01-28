@@ -269,9 +269,9 @@ const double BULK_DISCOUNT_RATE = 0.10;  // Discount percentage (10%)
 ## 📁 Project Structure
 
 
-├── Inventory_management_system.cpp                    # Main source code
-├── README.md                   # This file
-└── Group4 IVENTORY MANAGEMENT.doc    # Complete project documentation
+├── Inventory_management_system.cpp           # Main source code
+├── README.md                                 # This file
+└── Group4 IVENTORY MANAGEMENT.doc            # Complete project documentation
 
 ## 🎓 Educational Value
 
@@ -309,19 +309,7 @@ This project demonstrates:
 ## 📝 License
 
 This project is created for educational purposes as part of a group assignment.
-
-## 👥 Contributors
-
-
-1. Abraham Amogne                                                                ETS1848/17
-2. Saron Anbesaw                                                                    ETS1309/17
-3. Seble Sisay                                                                           ETS1314/17
-4. Senet Anbesaw                                                                     ETS1332/17
-5. Shanble Dires                                                                       ETS1336/17
-6. Zeynu Aman                                                                         ETS1622/17
-
----
-
 **Version**: 1.0
 **Last Updated**: January 19, 2026
 **Status**: Complete and Tested
+
