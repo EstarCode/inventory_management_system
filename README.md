@@ -226,9 +226,6 @@ Select: 14 (Inventory Report)
 
 ### Invoice Example
 
-================================================================
-                         INVOICE                            
-================================================================
 Transaction ID: 1
 Date: 19/01/2026  Time: 14:30:45
 ----------------------------------------------------------------
@@ -309,7 +306,6 @@ This project demonstrates:
 ## 📝 License
 
 This project is created for educational purposes as part of a group assignment.
-**Version**: 1.0
-**Last Updated**: January 19, 2026
-**Status**: Complete and Tested
+
+
 
